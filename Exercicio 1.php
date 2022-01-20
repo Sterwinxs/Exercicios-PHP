@@ -1,5 +1,5 @@
 <?php
-//Efetue um algoritmo PHP que receba um valor e imprima o  texto "o valor é maior que 10" caso isso seja verdade, senão imprima "o valor é menor que 10".
+//Efetue um algoritmo PHP que receba um valor e imprima o  texto "o valor é maior que 10" caso isso seja verdade, senão imprima "o valor é menor que 10
 
 $num= 10;
 
