@@ -1,4 +1,5 @@
 <?php
+//Criar um algoritmo que imprima a tabuada de um número.
 
 $a= 1;
 
