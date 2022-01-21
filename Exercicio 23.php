@@ -1,5 +1,5 @@
 <?php
-//Criar um algoritmo que leia um número e imprima os números de 1 até ele e o seu produto.
+//Entrar com o número de vezes que se deseja imprimir a palavra SOL e imprimir.
 
 $valor= 15;
 
